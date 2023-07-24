@@ -1,11 +1,10 @@
 ### Assalamu Alaykum :innocent:
 
 
-I am ✨ **Etu Mahmuda Era** ✨ . I love **coding and learning new technologies**. I like to work with team. Team work makes easy all the difficulties. I have **1 year experience with Software Engineering** in the field of **PHP and Laravel**. Then I realize that **I want to be a Test Engineer** because I love to **find out bugs on the websites**. Now I am doing my training on SQA to be an expert **SQA Engineer** and deliver the best outcome to the software industry.
-Recently I completed my **Full Stack SQA & Automation testing training** from **Road To SDET** arranged by **iBOS Limited**.
+I am ✨ **Etu Mahmuda Era** ✨ . Welcome to my profile! I'm passionate about **coding, testing, designing, and exploring new technology ,tools and applications**. Let's connect and push the boundaries of technology together! **Happy coding!**I love **coding and learning new technologies**.
+
 
 - 🔭 I’m currently working on SQA
-- 🌱 I’m currently learning Mobile Automation
 - 📫 How to reach me: etumahmuda@gmail.com
 
 <h3 align="left">Connect with me:</h3>
