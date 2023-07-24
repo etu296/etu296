@@ -1,7 +1,8 @@
 ### Assalamu Alaykum :innocent:
 
 
-I am ✨ **Etu Mahmuda Era** ✨ . Welcome to my profile! I'm passionate about **coding, testing, designing, and exploring new technology ,tools and applications**. Let's connect and push the boundaries of technology together! **Happy coding!**I love **coding and learning new technologies**.
+I am ✨ **Etu Mahmuda Era** ✨ . Welcome to my profile! I'm passionate about **coding, testing, designing, and exploring new technology ,tools and applications**. Let's connect and push the boundaries of technology together!
+<b><p>Happy coding!</p></b>
 
 
 - 🔭 I’m currently working on SQA
