@@ -24,10 +24,10 @@ Let's connect and elevate the quality of technology together! **Happy testing! ğ
 
 ## âš™ï¸ Tools & Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
+<p align="left";style="display: flex">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="Cypress" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/playwright.svg" alt="Playwright" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -40,7 +40,7 @@ Let's connect and elevate the quality of technology together! **Happy testing! ğ
 
 ## ğŸ“Š GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=etu296&show_icons=true&theme=default) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=etu296&show_icons=true&theme=default) <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=etu296&style=for-the-badge)
 
 ---
