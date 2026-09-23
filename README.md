@@ -40,7 +40,7 @@ Let's connect and elevate the quality of technology together! **Happy testing! ð
 
 ## ðŸ“Š GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=etu296&show_icons=true&theme=default) <br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=etu296&style=for-the-badge)
 
 ---
@@ -53,7 +53,7 @@ Let's connect and elevate the quality of technology together! **Happy testing! ð
   </a>
   <a href="https://www.linkedin.com/in/etu-mahmuda-era-3656761b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+  </a> <br>
   <a href="mailto:etumahmuda@gmail.com">
     ðŸ“§ etumahmuda@gmail.com
   </a>
